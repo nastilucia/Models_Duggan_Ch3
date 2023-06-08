@@ -1,3 +1,4 @@
+#init 
 _inits = Dict{Symbol,Float64}(
     :stock => 100,
 )
