@@ -18,7 +18,7 @@ function _variables_nrs()
         (nrs.growth_rate, 0, 0.1, "Growth Rate"),
 
     ]
-
+    #return variables
     return variables
 end
 
